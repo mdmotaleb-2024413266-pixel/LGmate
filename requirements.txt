@@ -1,0 +1,6 @@
+
+fastapi
+uvicorn
+langchain_groq
+edge-tts
+python-dotenv
