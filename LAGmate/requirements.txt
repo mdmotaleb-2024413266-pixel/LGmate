@@ -1,0 +1,6 @@
+flask
+flask-cors
+langchain-groq
+edge-tts
+asyncio
+gunicorn
